@@ -97,4 +97,4 @@ After running the command, open your web browser and go to http://localhost:6006
 I tested the Predictions on the inference code by loading the saved .pth weights file and testing it on the new images.  The model predictions came out to be good as shown in the figures.
 
 ## 🔗 Connect with me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/account](https://github.com/VKRISHNAMRAJU)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VKRISHNAMRAJU)  
