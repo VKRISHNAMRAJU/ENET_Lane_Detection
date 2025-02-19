@@ -81,17 +81,6 @@ To run the TensorBoard logs follow the command in your Terminal:
 ```bash
 tensorboard --logdir=path/to/your/logs/directory
 ```
-After running the command, open your web browser and go to http://localhost:6006 to access the TensorBoard interface. You'll be able to navigate through the different tabs to explore the data recorded in the tensorboard v2 file.
-## Predictions 
-
-![1_enet](https://github.com/VKRISHNAMRAJU/ENET_Lane_Detection/assets/121345928/20e88d9d-f9fc-4497-b461-1e91daa0a6cb)
-
-![2_enet](https://github.com/VKRISHNAMRAJU/ENET_Lane_Detection/assets/121345928/a0d293a1-7595-4c10-93b1-d6453d7cc2eb)
-
-![3_enet](https://github.com/VKRISHNAMRAJU/ENET_Lane_Detection/assets/121345928/d6565822-dd32-4383-95fe-4bb38d7d9f72)
-
-![4_enet](https://github.com/VKRISHNAMRAJU/ENET_Lane_Detection/assets/121345928/36133c9c-19bd-438d-be06-21869f42c00f)
-
 
 
 I tested the Predictions on the inference code by loading the saved .pth weights file and testing it on the new images.  The model predictions came out to be good as shown in the figures.
